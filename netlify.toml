@@ -17,4 +17,4 @@ API_KEY = "qc8nlSmYmoQfehzi61Lr7HuErhQcqHaY8n_lWhPnfyE"
 # Configure redirects if needed
 
 [context.production]
-command = "npm run start"  # Adjust the start command for production
+command = "yarn run dev-server"  # Adjust the start command for production
