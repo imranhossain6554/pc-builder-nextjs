@@ -16,7 +16,7 @@ MonitorDetailsPage.getLayout = function getLayout(page) {
 };
 
 export const getStaticPaths = async () => {
-  const res = await fetch("http://localhost:5000/monitor");
+  const res = await fetch("http://localhost:5001/monitor");
   const products = await res.json();
 
   console.log("Products", products);
@@ -30,7 +30,7 @@ export const getStaticPaths = async () => {
 
 export const getStaticProps = async (context) => {
   const { params } = context;
-  const res = await fetch(`http://localhost:5000/monitor/${params.monitorId}`);
+  const res = await fetch(`http://localhost:5001/monitor/${params.monitorId}`);
   const data = await res.json();
 
   console.log(data);

@@ -1,6 +1,5 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import AllMotherboard from "@/components/UI/AllMotherboard";
-import React from "react";
 
 const MotherboardPage = ({ allMotherboards }) => {
   return (
@@ -17,7 +16,7 @@ MotherboardPage.getLayout = function getLayout(page) {
 };
 
 export const getStaticProps = async () => {
-  const res = await fetch("http://localhost:5000/motherboard");
+  const res = await fetch("http://localhost:5001/motherboard");
   const data = await res.json();
   // console.log(data);
 

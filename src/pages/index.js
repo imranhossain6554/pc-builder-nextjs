@@ -2,9 +2,6 @@ import RootLayout from "@/components/Layouts/RootLayout";
 import AllProduct from "@/components/UI/AllProduct";
 import Banner from "@/components/UI/Banner";
 import FeaturedCategories from "@/components/UI/FeaturedCategory/FeaturedCategories";
-import Navbar from "@/components/shared/Navbar";
-import { Button } from "antd";
-import React from "react";
 
 const HomePage = ({ allProducts }) => {
   // console.log(allProducts);
@@ -35,7 +32,7 @@ function getRandomProducts(array, n) {
 }
 
 export const getStaticProps = async () => {
-  const res = await fetch("http://localhost:5000/products");
+  const res = await fetch("http://localhost:5001/products");
   const data = await res.json();
   // console.log(data);
   const randomProducts = getRandomProducts(data, 6);
