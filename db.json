@@ -1,0 +1,812 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "MSI PRO MP223 21.45' Full HD Business Monitor",
+      "img": "https://i.ibb.co/LngbJpc/mp223-06-500x500.webp",
+      "price": 9800,
+      "category": "monitor",
+      "status": "In Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "PRO MP223",
+        "brand": "MSI",
+        "resolution": "FHD (1920 x 1080)",
+        "ports": "1x HDMI, 1x VGA, 1x Audio Out"
+      },
+      "description": "The MSI PRO MP223 21.45' 100Hz Full HD Business Monitor Boost your productivity at work with the 21.5-inch Full HD Monitor. Your programs, spreadsheets, and other crucial work papers may be seen with ease on its large 21.45-inch screen. Your eyes are protected by MSI Anti-Flicker technology, which also reduces blue light, while long-term eye damage is also prevented. Despite your long hours of work, you can rely on this monitor to safeguard your eye health. The VA Wide Viewing Angle technology enhances the screen's colors and brightness to make sure you can enjoy every detail to the fullest, making it ideal for professionals who need precise color representation.",
+      "individual_rating": "4.6 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "super monitor. clean display"
+    },
+    {
+      "id": "2",
+      "title": "MSI PRO MP241X 23.8' 75Hz FHD Monitor",
+      "img": "https://i.ibb.co/Y8g67NZ/pro-mp241x-0001-500x500.png",
+      "price": 15200,
+      "category": "monitor",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "PRO MP241X",
+        "brand": "MSI",
+        "resolution": "FHD (1920 x 1080)",
+        "ports": "HDMI, D-Sub (VGA)"
+      },
+      "description": "The MSI PRO MP241X is a 23.8 16:9 75 Hz VA Monitor with a ratio of 16:9. This monitor has a Full HD 1920 x 1080 resolution and a 75 Hz refresh rate, which is meant to decrease motion blur when scrolling through documents and watching videos. Furthermore, anti-flicker and blue-light-reduction technologies aid in decreasing eyestrain when viewing the display. The small bezels also serve to keep you focused on the image and make it perfect for multi-monitor setups. To get started just connect the MP241X to your compatible devices via the HDMI 1.4 and VGA inputs.",
+      "individual_rating": "4.7 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb. clean display"
+    },
+    {
+      "id": "3",
+      "title": "LG 22MK600M-B 21.5 inch IPS Full HD LED Monitor",
+      "img": "https://i.ibb.co/h1tGcY4/lg-22mk600m-1-500x500.jpg",
+      "price": 14700,
+      "category": "monitor",
+      "status": "In Stock",
+      "rating": "4.4 out of 5",
+      "key_features": {
+        "model": "22MK600M",
+        "brand": "LG",
+        "resolution": "Full HD (1920 x 1080)",
+        "ports": "HDMI, VGA, 3.5mm Audio Out"
+      },
+      "description": "LG 22MK600M-B high definition monitor with IPS technology liquid crystal display provides the true color of the images. Improved full HD resolution with 5ms response time ensures a comfortable viewing experience. With the Radeon FreeSync option, gamers can experience seamless fast-paced games. Its reader mode reduces blue light to help lessen eye fatigue.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.5 Out of 5 Stars",
+      "reviews": "superb clean display"
+    },
+    {
+      "id": "4",
+      "title": "Intel Pentium Gold G6405 Coffee Lake Processor",
+      "img": "https://i.ibb.co/7RKmLbP/pentium-gold-g6405-01-500x500.webp",
+      "price": 7000,
+      "category": "processor",
+      "status": "In Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "Intel Pentium Gold G6405",
+        "brand": "INTEL",
+        "resolution": "Intel UHD Graphics 610"
+      },
+      "description": "The Intel Pentium Gold G6405 Coffee Lake Processor comes with 4M Cache, 4.10 GHz Processor Base Frequency. This Intel Pentium Gold G6405 processor comes with a new breed that has an integrated Intel UHD Graphics 610, so a separate graphics card is not required for its functionality. This new Comet Lake microarchitecture is manufactured with the 14nm process (Lithography) that comes with 2 cores and HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup Additionally, this Intel Pentium Gold G6405 processor also supports dual-channel 2666 MHz DDR4 memory and utilizes 10th-generation Intel technology.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.5 Out of 5 Stars",
+      "reviews": "superb processor"
+    },
+    {
+      "id": "5",
+      "title": "AMD Athlon 200GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics",
+      "img": "https://i.ibb.co/Kqd055m/athlon-500x500.jpg",
+      "price": 7200,
+      "category": "processor",
+      "status": "Out of Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "Athlon 200GE",
+        "brand": "AMD",
+        "resolution": "Base Clock Speed 3.2GHz"
+      },
+      "description": "AMD Athlon Pro 200GE is a dual-core Processor with SMT-enabled, so it has four threads active and 512 KB L2 cache per core, and 4 MB shared L3 cache. The base clock is 3.20 GHz. The primary limitation is PCI-Express 3.0 at x8 for graphics. Raven Ridge is an unlocked processor, that enabled multiplier we managed to get a proper 3.9 GHz out of the two cores at a voltage of 1.4 volts. One thing you do need to keep in mind is that the memory will be restricted to 2667 MHz maximum (dual-channel).",
+      "individual_rating": "4.2 Out of 5 Stars",
+      "average_rating": "4.6 Out of 5 Stars",
+      "reviews": "superb processor"
+    },
+    {
+      "id": "6",
+      "title": "Intel 10th Gen Core i3 10100F Processor",
+      "img": "https://i.ibb.co/DMX75P4/i3-10100-500x500.jpg",
+      "price": 8200,
+      "category": "processor",
+      "status": "In Stock",
+      "rating": "4.6 out of 5",
+      "key_features": {
+        "model": "Intel Core i3 10100F",
+        "brand": "INTEL",
+        "resolution": "Speed 3.60 up to 4.30 GHz"
+      },
+      "description": "This processor comes with a new breed that come without an integrated GPU, so a separate graphics card is required for its functionality. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup",
+      "individual_rating": "4.7 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb processor"
+    },
+    {
+      "id": "7",
+      "title": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+      "img": "https://i.ibb.co/YX3jkGY/h81m-vg4-r4-0-01-500x500.jpg",
+      "price": 8000,
+      "category": "motherboard",
+      "status": "In Stock",
+      "rating": "4.7 out of 5",
+      "key_features": {
+        "model": "H81M-VG4 R4.0",
+        "brand": "ASRock",
+        "resolution": "Supports Dual Channel DDR3 1600"
+      },
+      "description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design.",
+      "individual_rating": "4.7 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb motherboard"
+    },
+    {
+      "id": "8",
+      "title": "Gigabyte GA-H110M S2PH-DDR4 Motherboard",
+      "img": "https://i.ibb.co/FW59r8D/Gigabyte-GA-H110-M-S2-PH-DDR4-500x500.jpg",
+      "price": 8900,
+      "category": "motherboard",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "GA-H110M S2PH-DDR4",
+        "brand": "GIGABYTE",
+        "resolution": "8-channel HD Audio with High-Quality Audio Capacitors"
+      },
+      "description": "Supports 6th Generation Intel Core Processor.Dual Channel DDR4,DIMMs. 8-channel HD Audio with High-Quality Audio Capacitors.Audio Noise Guard with.LED Trace Path Lighting. HDMI 1.4, D-Sub ports for multiple displays. Realtek GbE. LAN with cFosSpeed Internet Accelerator Software. All new GIGABYTE APP Center, simple and easy to use",
+      "individual_rating": "4.8 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb motherboard"
+    },
+    {
+      "id": "9",
+      "title": "Gigabyte GA-H81M-S2PH Micro ATX Motherboard",
+      "img": "https://i.ibb.co/wsK198Z/ga-h81m-s2ph-500x500.jpg",
+      "price": 7900,
+      "category": "motherboard",
+      "status": "In Stock",
+      "rating": "4.8 out of 5",
+      "key_features": {
+        "model": "GA-H81M-S2PH",
+        "brand": "GIGABYTE",
+        "resolution": "GIGABYTE UEFI DualBIOS"
+      },
+      "description": "GIGABYTE 8 Series motherboards support the latest 4th Generation Intel Core processors, bringing together a unique blend of features and technologies that offer the absolute ultimate platform for your next PC build. From high current capable power delivery, performance-enhancing caching technologies, exclusive high-end audio features, advanced networking, and device charging, GIGABYTE 8 series motherboards are in a class of their own. The latest Intel 8 Series platform offers significant improvements in performance and power consumption with the latest 4th generation Intel Core processors and Intel H81 chipsets. As well as a boost in overall productivity, the latest HD4600 Intel processor graphics provide significantly higher frame rates in the latest DX11 3D game titles.",
+      "individual_rating": "4.8 Out of 5 Stars",
+      "average_rating": "4.6 Out of 5 Stars",
+      "reviews": "superb motherboard"
+    },
+    {
+      "id": "10",
+      "title": "Transcend 4GB JM DDR4 3200Mhz SO-DIMM Laptop RAM",
+      "img": "https://i.ibb.co/5WdrTYV/jm3200hsh-4g-500x500.jpg",
+      "price": 1500,
+      "category": "ram",
+      "status": "In Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "JM",
+        "brand": "Transcend",
+        "resolution": "4GB, CAS Latency: CL22"
+      },
+      "description": "The Transcend's JetRam memory modules are manufactured with true ETT grade. This Laptop RAM featured with Capacity 4GB, RAM Type DDR4, Frequency 3200Mhz, 0Â°C (32Â°F) ~ 85Â°C (185Â°F) Operating Temperature, 1.2V Voltage and CAS Latency CL22. Transcend's DDR4 SO-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy. This latest Transcend 4GB JM DDR4 3200Mhz SO-DIMM Laptop RAM comes with lifetime warranty",
+      "individual_rating": "4.8 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb ram"
+    },
+    {
+      "id": "11",
+      "title": "Crucial 8GB Single DDR4 2666MHz Laptop RAM",
+      "img": "https://i.ibb.co/b1ddC1k/single-ddr4-2666-500x500.jpg",
+      "price": 2700,
+      "category": "ram",
+      "status": "In Stock",
+      "rating": "4.7 out of 5",
+      "key_features": {
+        "model": "Crucial Single DDR4 2666MHz",
+        "brand": "Crucial",
+        "resolution": "2666 MHz Clock Speed"
+      },
+      "description": "Memory is a component in your computer that allows for short-term data access. Since your systemâ€™s moment-to-moment operations rely on short-term data access â€“ loading applications, browsing the Web or editing a spreadsheet â€“ the speed and amount of memory in your system plays a critical role. Load apps in seconds by increasing the speed of your memory and installing more of it. If youâ€™re like us, you use your computer to do a lot of things at once. You might be editing a document, while also looking at pictures and browsing the internet. This naturally leads to a performance problem: every app youâ€™re running requires memory and competes for a limited pool of resources.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "superb ram"
+    },
+    {
+      "id": "12",
+      "title": "Lexar 8GB DDR4 3200MHz SODIMM Laptop RAM",
+      "img": "https://i.ibb.co/gZXjBQK/ddr4-3200mhz-1-500x500.jpg",
+      "price": 3200,
+      "category": "ram",
+      "status": "Out of Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "DDR4 3200MHz SODIMM",
+        "brand": "Lexar",
+        "resolution": "High-speed performance"
+      },
+      "description": "The Lexar DDR4 3200MHz SODIMM Laptop RAM comes with 8GB capacity. It will provides you faster startups, increased responsiveness and quicker application load times with excellent performance. In addition, It is featues with 260 Pin, JEDEC Standard, CL22 CAS Latency, 1.2V Voltage, 0Â°C to 85Â°C (Surface) Operating temperature, -55Â°C to 100Â°C Storage Temperature. It is also features with limited steps to install Lexar DDR4, and youâ€™ll get a boost in your computing performance in no time. This new Lexar DDR4 3200MHz SODIMM Laptop RAM has Lifetime Warranty.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb ram"
+    },
+    {
+      "id": "13",
+      "title": "ASUS ROG THOR 1200P2 GAMING 80 Plus Platinum 1200W Power Supply",
+      "img": "https://i.ibb.co/zm0NyL9/thor-1200p2-500x500.webp",
+      "price": 50000,
+      "category": "power-supply-unit",
+      "status": "In Stock",
+      "rating": "4.6 out of 5",
+      "key_features": {
+        "model": "THOR 1200P2",
+        "brand": "Asus",
+        "resolution": "OLED Power Display"
+      },
+      "description": "The inbuilt OLED monitor in the ROG Thor 1200P Platinum Power Supply Unit provides a real-time display of power consumption. Now you can easily check how much electricity your apparatus is using. To improve component lifespan, the ROG Thor 1200W Platinum has a 135mm unique Wing-blade fan. The fan is kept spinning freely thanks to IP5X dust protection, and 0dB technology makes use of thermal sensors to enable the fan to entirely shut off at lower wattages for absolutely silent operation.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb power supply"
+    },
+    {
+      "id": "14",
+      "title": "Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply",
+      "img": "https://i.ibb.co/PjP0JR4/hx1500i-1500w-01-500x500.webp",
+      "price": 45000,
+      "category": "power-supply-unit",
+      "status": "In Stock",
+      "rating": "4.2 out of 5",
+      "key_features": {
+        "model": "HX1500i 1500W",
+        "brand": "Corsair",
+        "resolution": "Corsair"
+      },
+      "description": "The Corsair HXi Series Fully Modular Power Supply is Ultra-Low Noise with three EPS12V connections and employs the finest quality components to produce 80 PLUS Platinum efficient power. With three EPS12V ports and completely modular wiring, HXi Series platinum power supplies provide every connection needed to support today's most demanding PC upgrades now and in the future, including the newest generation of power-hungry graphics cards and CPUs.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "superb power-supply"
+    },
+    {
+      "id": "15",
+      "title": "MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply",
+      "img": "https://i.ibb.co/F4P9z9D/meg-ai1300p-pcie5-1300w-01-500x500.webp",
+      "price": 36000,
+      "category": "Power Supply Unit",
+      "status": "Out of Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "MEG Ai1300P PCIE5",
+        "brand": "MSI",
+        "resolution": "Supports Nvidia GeForce RTX 40 Series GPU"
+      },
+      "description": "The MSI MEG Ai1300P PCIE5 1300W Power Supply, is a cutting-edge solution designed to meet the power demands of high-performance gaming and computing systems. This power supply is engineered to deliver outstanding performance, efficiency, and reliability to ensure your system operates at its best. The MSI MEG Ai1300P features full support for Nvidia GeForce RTXTM 40 Series graphics cards, making it an excellent choice for gamers and content creators looking to harness the power of the latest GPU technology. With ATX 3.0 support, this power supply is compatible with a wide range of motherboards, ensuring seamless integration into your system setup.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb power supply"
+    },
+    {
+      "id": "16",
+      "title": "Apacer AH155 64GB USB 3.2 Gen 1 Flash Drive",
+      "img": "https://i.ibb.co/mt8PrKT/ah155-01-500x500.webp",
+      "price": 1100,
+      "category": "storage-device",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "AH15A",
+        "brand": "Apacer",
+        "resolution": "Plug and Play"
+      },
+      "description": "The Apacer AH155 64GB USB 3.2 Gen 1 Flash Drive is a sleek and compact storage device designed with a focus on minimalist aesthetics and modern technology. With a capacity of 64GB, it offers ample storage space for your files, documents, photos, and more. The flash drive features a SuperSpeed USB 3.2 Gen 1 interface, which allows for high-speed data transfer rates and efficient file handling. It is also backward compatible with USB 2.0, ensuring compatibility with older devices and systems. The design of the AH155/112 USB flash drives follows the principle of eliminating unnecessary lines and decorations to achieve a sense of absolute purity. The Apacer design team has put emphasis on creating a minimalist aesthetic that represents the technology of a new generation.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb pen drive"
+    },
+    {
+      "id": "17",
+      "title": "Transcend TS128GJF790K 128GB USB 3.0 Pen Drive",
+      "img": "https://i.ibb.co/rwsyMtS/Transcend-TS128-GJF790-K-1-500x500.jpg",
+      "price": 1270,
+      "category": "storage-device",
+      "status": "Out of Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "Transcend TS128GJF790K",
+        "brand": "Transcend",
+        "resolution": "USB 3.0 data transfer performance"
+      },
+      "description": "Unparalleled USB 3.0 data transfer performance (backwards compatible with USB 2.0). Capless design with slide-out USB connector. Exclusive Transcend Elite data management software",
+      "individual_rating": "4.5 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb pen drive"
+    },
+    {
+      "id": "18",
+      "title": "TEAM C175 128GB 3.2 USB Pendrive",
+      "img": "https://i.ibb.co/9svwdqr/c175-01-500x500.jpg",
+      "price": 999,
+      "category": "storage-device",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "Team C162",
+        "brand": "Team",
+        "resolution": "Interface USB 3.1 Gen 2 (USB 3.0)"
+      },
+      "description": "A combination of cold metal and minimalist colors TEAMGROUP combines tough metal and soft colors, two conflicting elements to create C162: USB drive that is both durable and gentle.C162 is using the fastest USB 3.1 gen 2 interface (USB 3.0) to suit our performance seeking business users and enthusiastic players. By cleverly combining the toughness of Zinc Alloy and the softness of the mysterious black color, the beauty of integration from two different materials can be brought out ingeniously.",
+      "individual_rating": "4.5 Out of 5 Stars",
+      "average_rating": "4 Out of 5 Stars",
+      "reviews": "superb  pen drive"
+    },
+    {
+      "id": "19",
+      "title": "Micropack K2208 USB Mini Keyboard",
+      "img": "https://i.ibb.co/J3xyMVG/k2208-03-500x500.webp",
+      "price": 650,
+      "category": "others",
+      "status": "Out of Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "Micropack K2208",
+        "brand": "Micropack",
+        "resolution": "USB 2.0"
+      },
+      "description": "Micropack K2208 USB Mini Keyboard is built in Compact design, Spill resistant design, Chocolate key cap, comfortable typing, With Number Lock function, Strong structure, more durable, Clearly letters with UV oil painting, USB 2.0 interface, plug & play. In this keyboard, It has 103 Keyboard button, 7 multimedia key, 78 buttons with chocolate key cap. The K2208 keyboard dimension is about 286 x 128 x 27.8mm with 1.5M cable length.  This K2208 USB mini keyboard comes with 1 year warranty.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "superb keyboard"
+    },
+    {
+      "id": "20",
+      "title": "A4TECH OP-730D 2X Click Optical Wired Mouse",
+      "img": "https://i.ibb.co/Zc21bd7/730d-main-500x500.jpg",
+      "price": 450,
+      "category": "others",
+      "status": "In Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "OP-730D",
+        "brand": "A4Tech",
+        "resolution": "1000 DPI resolution"
+      },
+      "description": "The A4TECH OP-730D comes with hyper-fast scrolling for increased productivity. A nearly frictionless scroll wheel lets you fly through long documents and Web pages with a single flick. Experience smoother cursor control on virtually any surface. The contoured design gives you more support and control. Extreme quality offer over 5 million clicks guaranteed. Thanks to the 1000 DPI, you get guaranteed smooth and accurate tracking anywhere, even on furry textiles. Just one click on “2X Button” straightly opens files and programs easily. Without any driver, Save time & improve efficiency. This mouse has a dust-resistant design that prolongs the wheel life-span. 4-Way Wheel offers smart horizontal & vertical scrolling. A4TECH OP-730D Optical Wired Mouse comes with 1 year warranty.",
+      "individual_rating": "4.6 Out of 5 Stars",
+      "average_rating": "4.5 Out of 5 Stars",
+      "reviews": "superb mouse"
+    },
+    {
+      "id": "21",
+      "title": "Lian Li O11D EVO Vertical GPU Kit",
+      "img": "https://i.ibb.co/THCnYSB/o11d-evo-vertical-gpu-kit-01-500x500.webp",
+      "price": 6700,
+      "category": "others",
+      "status": "In Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "O11D EVO Vertical GPU Kit",
+        "brand": "Lian Li",
+        "resolution": "Vertical graphics card accessories for O11D EVO"
+      },
+      "description": "The Lian Li O11D EVO Vertical GPU Kit is a Vertical Graphics Card Holder for O11D EVO. This GPU holder allows you to vertically display graphics cards and it comes with 3 slots that offer builders more installation options. You can adjust the cable to best showcase your graphics card as you wish. The Lian Li O11D EVO Vertical GPU Kit includes a 200mm long PCIe Gen4 riser cable. The latest PCIe 4.0 supports double the bandwidth of PCIe 3.0 and remains backward compatible with a maximum transfer speed. The Lian Li O11D EVO Vertical GPU Kit has no warranty.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb"
+    }
+  ],
+  "monitor": [
+    {
+      "id": "1",
+      "title": "MSI PRO MP223 21.45' Full HD Business Monitor",
+      "img": "https://i.ibb.co/LngbJpc/mp223-06-500x500.webp",
+      "price": 9800,
+      "category": "monitor",
+      "status": "In Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "PRO MP223",
+        "brand": "MSI",
+        "resolution": "FHD (1920 x 1080)",
+        "ports": "1x HDMI, 1x VGA, 1x Audio Out"
+      },
+      "description": "The MSI PRO MP223 21.45' 100Hz Full HD Business Monitor Boost your productivity at work with the 21.5-inch Full HD Monitor. Your programs, spreadsheets, and other crucial work papers may be seen with ease on its large 21.45-inch screen. Your eyes are protected by MSI Anti-Flicker technology, which also reduces blue light, while long-term eye damage is also prevented. Despite your long hours of work, you can rely on this monitor to safeguard your eye health. The VA Wide Viewing Angle technology enhances the screen's colors and brightness to make sure you can enjoy every detail to the fullest, making it ideal for professionals who need precise color representation.",
+      "individual_rating": "4.6 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "super monitor. clean display"
+    },
+    {
+      "id": "2",
+      "title": "MSI PRO MP241X 23.8' 75Hz FHD Monitor",
+      "img": "https://i.ibb.co/Y8g67NZ/pro-mp241x-0001-500x500.png",
+      "price": 15200,
+      "category": "monitor",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "PRO MP241X",
+        "brand": "MSI",
+        "resolution": "FHD (1920 x 1080)",
+        "ports": "HDMI, D-Sub (VGA)"
+      },
+      "description": "The MSI PRO MP241X is a 23.8 16:9 75 Hz VA Monitor with a ratio of 16:9. This monitor has a Full HD 1920 x 1080 resolution and a 75 Hz refresh rate, which is meant to decrease motion blur when scrolling through documents and watching videos. Furthermore, anti-flicker and blue-light-reduction technologies aid in decreasing eyestrain when viewing the display. The small bezels also serve to keep you focused on the image and make it perfect for multi-monitor setups. To get started just connect the MP241X to your compatible devices via the HDMI 1.4 and VGA inputs.",
+      "individual_rating": "4.7 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb. clean display"
+    },
+    {
+      "id": "3",
+      "title": "LG 22MK600M-B 21.5 inch IPS Full HD LED Monitor",
+      "img": "https://i.ibb.co/h1tGcY4/lg-22mk600m-1-500x500.jpg",
+      "price": 14700,
+      "category": "monitor",
+      "status": "In Stock",
+      "rating": "4.4 out of 5",
+      "key_features": {
+        "model": "22MK600M",
+        "brand": "LG",
+        "resolution": "Full HD (1920 x 1080)",
+        "ports": "HDMI, VGA, 3.5mm Audio Out"
+      },
+      "description": "LG 22MK600M-B high definition monitor with IPS technology liquid crystal display provides the true color of the images. Improved full HD resolution with 5ms response time ensures a comfortable viewing experience. With the Radeon FreeSync option, gamers can experience seamless fast-paced games. Its reader mode reduces blue light to help lessen eye fatigue.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.5 Out of 5 Stars",
+      "reviews": "superb clean display"
+    }
+  ],
+  "processor": [
+    {
+      "id": "4",
+      "title": "Intel Pentium Gold G6405 Coffee Lake Processor",
+      "img": "https://i.ibb.co/7RKmLbP/pentium-gold-g6405-01-500x500.webp",
+      "price": 7000,
+      "category": "processor",
+      "status": "In Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "Intel Pentium Gold G6405",
+        "brand": "INTEL",
+        "resolution": "Intel UHD Graphics 610"
+      },
+      "description": "The Intel Pentium Gold G6405 Coffee Lake Processor comes with 4M Cache, 4.10 GHz Processor Base Frequency. This Intel Pentium Gold G6405 processor comes with a new breed that has an integrated Intel UHD Graphics 610, so a separate graphics card is not required for its functionality. This new Comet Lake microarchitecture is manufactured with the 14nm process (Lithography) that comes with 2 cores and HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup Additionally, this Intel Pentium Gold G6405 processor also supports dual-channel 2666 MHz DDR4 memory and utilizes 10th-generation Intel technology.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.5 Out of 5 Stars",
+      "reviews": "superb processor"
+    },
+    {
+      "id": "5",
+      "title": "AMD Athlon 200GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics",
+      "img": "https://i.ibb.co/Kqd055m/athlon-500x500.jpg",
+      "price": 7200,
+      "category": "processor",
+      "status": "Out of Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "Athlon 200GE",
+        "brand": "AMD",
+        "resolution": "Base Clock Speed 3.2GHz"
+      },
+      "description": "AMD Athlon Pro 200GE is a dual-core Processor with SMT-enabled, so it has four threads active and 512 KB L2 cache per core, and 4 MB shared L3 cache. The base clock is 3.20 GHz. The primary limitation is PCI-Express 3.0 at x8 for graphics. Raven Ridge is an unlocked processor, that enabled multiplier we managed to get a proper 3.9 GHz out of the two cores at a voltage of 1.4 volts. One thing you do need to keep in mind is that the memory will be restricted to 2667 MHz maximum (dual-channel).",
+      "individual_rating": "4.2 Out of 5 Stars",
+      "average_rating": "4.6 Out of 5 Stars",
+      "reviews": "superb processor"
+    },
+    {
+      "id": "6",
+      "title": "Intel 10th Gen Core i3 10100F Processor",
+      "img": "https://i.ibb.co/DMX75P4/i3-10100-500x500.jpg",
+      "price": 8200,
+      "category": "processor",
+      "status": "In Stock",
+      "rating": "4.6 out of 5",
+      "key_features": {
+        "model": "Intel Core i3 10100F",
+        "brand": "INTEL",
+        "resolution": "Speed 3.60 up to 4.30 GHz"
+      },
+      "description": "This processor comes with a new breed that come without an integrated GPU, so a separate graphics card is required for its functionality. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup",
+      "individual_rating": "4.7 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb processor"
+    }
+  ],
+  "motherboard": [
+    {
+      "id": "7",
+      "title": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+      "img": "https://i.ibb.co/YX3jkGY/h81m-vg4-r4-0-01-500x500.jpg",
+      "price": 8000,
+      "category": "motherboard",
+      "status": "In Stock",
+      "rating": "4.7 out of 5",
+      "key_features": {
+        "model": "H81M-VG4 R4.0",
+        "brand": "ASRock",
+        "resolution": "Supports Dual Channel DDR3 1600"
+      },
+      "description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design.",
+      "individual_rating": "4.7 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb motherboard"
+    },
+    {
+      "id": "8",
+      "title": "Gigabyte GA-H110M S2PH-DDR4 Motherboard",
+      "img": "https://i.ibb.co/FW59r8D/Gigabyte-GA-H110-M-S2-PH-DDR4-500x500.jpg",
+      "price": 8900,
+      "category": "motherboard",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "GA-H110M S2PH-DDR4",
+        "brand": "GIGABYTE",
+        "resolution": "8-channel HD Audio with High-Quality Audio Capacitors"
+      },
+      "description": "Supports 6th Generation Intel Core Processor.Dual Channel DDR4,DIMMs. 8-channel HD Audio with High-Quality Audio Capacitors.Audio Noise Guard with.LED Trace Path Lighting. HDMI 1.4, D-Sub ports for multiple displays. Realtek GbE. LAN with cFosSpeed Internet Accelerator Software. All new GIGABYTE APP Center, simple and easy to use",
+      "individual_rating": "4.8 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb motherboard"
+    },
+    {
+      "id": "9",
+      "title": "Gigabyte GA-H81M-S2PH Micro ATX Motherboard",
+      "img": "https://i.ibb.co/wsK198Z/ga-h81m-s2ph-500x500.jpg",
+      "price": 7900,
+      "category": "motherboard",
+      "status": "In Stock",
+      "rating": "4.8 out of 5",
+      "key_features": {
+        "model": "GA-H81M-S2PH",
+        "brand": "GIGABYTE",
+        "resolution": "GIGABYTE UEFI DualBIOS"
+      },
+      "description": "GIGABYTE 8 Series motherboards support the latest 4th Generation Intel Core processors, bringing together a unique blend of features and technologies that offer the absolute ultimate platform for your next PC build. From high current capable power delivery, performance-enhancing caching technologies, exclusive high-end audio features, advanced networking, and device charging, GIGABYTE 8 series motherboards are in a class of their own. The latest Intel 8 Series platform offers significant improvements in performance and power consumption with the latest 4th generation Intel Core processors and Intel H81 chipsets. As well as a boost in overall productivity, the latest HD4600 Intel processor graphics provide significantly higher frame rates in the latest DX11 3D game titles.",
+      "individual_rating": "4.8 Out of 5 Stars",
+      "average_rating": "4.6 Out of 5 Stars",
+      "reviews": "superb motherboard"
+    }
+  ],
+  "ram": [
+    {
+      "id": "10",
+      "title": "Transcend 4GB JM DDR4 3200Mhz SO-DIMM Laptop RAM",
+      "img": "https://i.ibb.co/5WdrTYV/jm3200hsh-4g-500x500.jpg",
+      "price": 1500,
+      "category": "ram",
+      "status": "In Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "JM",
+        "brand": "Transcend",
+        "resolution": "4GB, CAS Latency: CL22"
+      },
+      "description": "The Transcend's JetRam memory modules are manufactured with true ETT grade. This Laptop RAM featured with Capacity 4GB, RAM Type DDR4, Frequency 3200Mhz, 0Â°C (32Â°F) ~ 85Â°C (185Â°F) Operating Temperature, 1.2V Voltage and CAS Latency CL22. Transcend's DDR4 SO-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy. This latest Transcend 4GB JM DDR4 3200Mhz SO-DIMM Laptop RAM comes with lifetime warranty",
+      "individual_rating": "4.8 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb ram"
+    },
+    {
+      "id": "11",
+      "title": "Crucial 8GB Single DDR4 2666MHz Laptop RAM",
+      "img": "https://i.ibb.co/b1ddC1k/single-ddr4-2666-500x500.jpg",
+      "price": 2700,
+      "category": "ram",
+      "status": "In Stock",
+      "rating": "4.7 out of 5",
+      "key_features": {
+        "model": "Crucial Single DDR4 2666MHz",
+        "brand": "Crucial",
+        "resolution": "2666 MHz Clock Speed"
+      },
+      "description": "Memory is a component in your computer that allows for short-term data access. Since your systemâ€™s moment-to-moment operations rely on short-term data access â€“ loading applications, browsing the Web or editing a spreadsheet â€“ the speed and amount of memory in your system plays a critical role. Load apps in seconds by increasing the speed of your memory and installing more of it. If youâ€™re like us, you use your computer to do a lot of things at once. You might be editing a document, while also looking at pictures and browsing the internet. This naturally leads to a performance problem: every app youâ€™re running requires memory and competes for a limited pool of resources.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "superb ram"
+    },
+    {
+      "id": "12",
+      "title": "Lexar 8GB DDR4 3200MHz SODIMM Laptop RAM",
+      "img": "https://i.ibb.co/gZXjBQK/ddr4-3200mhz-1-500x500.jpg",
+      "price": 3200,
+      "category": "ram",
+      "status": "Out of Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "DDR4 3200MHz SODIMM",
+        "brand": "Lexar",
+        "resolution": "High-speed performance"
+      },
+      "description": "The Lexar DDR4 3200MHz SODIMM Laptop RAM comes with 8GB capacity. It will provides you faster startups, increased responsiveness and quicker application load times with excellent performance. In addition, It is featues with 260 Pin, JEDEC Standard, CL22 CAS Latency, 1.2V Voltage, 0Â°C to 85Â°C (Surface) Operating temperature, -55Â°C to 100Â°C Storage Temperature. It is also features with limited steps to install Lexar DDR4, and youâ€™ll get a boost in your computing performance in no time. This new Lexar DDR4 3200MHz SODIMM Laptop RAM has Lifetime Warranty.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb ram"
+    }
+  ],
+  "power_supply_unit": [
+    {
+      "id": "13",
+      "title": "ASUS ROG THOR 1200P2 GAMING 80 Plus Platinum 1200W Power Supply",
+      "img": "https://i.ibb.co/zm0NyL9/thor-1200p2-500x500.webp",
+      "price": 50000,
+      "category": "power-supply-unit",
+      "status": "In Stock",
+      "rating": "4.6 out of 5",
+      "key_features": {
+        "model": "THOR 1200P2",
+        "brand": "Asus",
+        "resolution": "OLED Power Display"
+      },
+      "description": "The inbuilt OLED monitor in the ROG Thor 1200P Platinum Power Supply Unit provides a real-time display of power consumption. Now you can easily check how much electricity your apparatus is using. To improve component lifespan, the ROG Thor 1200W Platinum has a 135mm unique Wing-blade fan. The fan is kept spinning freely thanks to IP5X dust protection, and 0dB technology makes use of thermal sensors to enable the fan to entirely shut off at lower wattages for absolutely silent operation.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb power supply"
+    },
+    {
+      "id": "14",
+      "title": "Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply",
+      "img": "https://i.ibb.co/PjP0JR4/hx1500i-1500w-01-500x500.webp",
+      "price": 45000,
+      "category": "power-supply-unit",
+      "status": "In Stock",
+      "rating": "4.2 out of 5",
+      "key_features": {
+        "model": "HX1500i 1500W",
+        "brand": "Corsair",
+        "resolution": "Corsair"
+      },
+      "description": "The Corsair HXi Series Fully Modular Power Supply is Ultra-Low Noise with three EPS12V connections and employs the finest quality components to produce 80 PLUS Platinum efficient power. With three EPS12V ports and completely modular wiring, HXi Series platinum power supplies provide every connection needed to support today's most demanding PC upgrades now and in the future, including the newest generation of power-hungry graphics cards and CPUs.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "superb power-supply"
+    },
+    {
+      "id": "15",
+      "title": "MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply",
+      "img": "https://i.ibb.co/F4P9z9D/meg-ai1300p-pcie5-1300w-01-500x500.webp",
+      "price": 36000,
+      "category": "Power Supply Unit",
+      "status": "Out of Stock",
+      "rating": "4 out of 5",
+      "key_features": {
+        "model": "MEG Ai1300P PCIE5",
+        "brand": "MSI",
+        "resolution": "Supports Nvidia GeForce RTX 40 Series GPU"
+      },
+      "description": "The MSI MEG Ai1300P PCIE5 1300W Power Supply, is a cutting-edge solution designed to meet the power demands of high-performance gaming and computing systems. This power supply is engineered to deliver outstanding performance, efficiency, and reliability to ensure your system operates at its best. The MSI MEG Ai1300P features full support for Nvidia GeForce RTXTM 40 Series graphics cards, making it an excellent choice for gamers and content creators looking to harness the power of the latest GPU technology. With ATX 3.0 support, this power supply is compatible with a wide range of motherboards, ensuring seamless integration into your system setup.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb power supply"
+    }
+  ],
+  "storage_device": [
+    {
+      "id": "16",
+      "title": "Apacer AH155 64GB USB 3.2 Gen 1 Flash Drive",
+      "img": "https://i.ibb.co/mt8PrKT/ah155-01-500x500.webp",
+      "price": 1100,
+      "category": "storage-device",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "AH15A",
+        "brand": "Apacer",
+        "resolution": "Plug and Play"
+      },
+      "description": "The Apacer AH155 64GB USB 3.2 Gen 1 Flash Drive is a sleek and compact storage device designed with a focus on minimalist aesthetics and modern technology. With a capacity of 64GB, it offers ample storage space for your files, documents, photos, and more. The flash drive features a SuperSpeed USB 3.2 Gen 1 interface, which allows for high-speed data transfer rates and efficient file handling. It is also backward compatible with USB 2.0, ensuring compatibility with older devices and systems. The design of the AH155/112 USB flash drives follows the principle of eliminating unnecessary lines and decorations to achieve a sense of absolute purity. The Apacer design team has put emphasis on creating a minimalist aesthetic that represents the technology of a new generation.",
+      "individual_rating": "4.4 Out of 5 Stars",
+      "average_rating": "4.4 Out of 5 Stars",
+      "reviews": "superb pen drive"
+    },
+    {
+      "id": "17",
+      "title": "Transcend TS128GJF790K 128GB USB 3.0 Pen Drive",
+      "img": "https://i.ibb.co/rwsyMtS/Transcend-TS128-GJF790-K-1-500x500.jpg",
+      "price": 1270,
+      "category": "storage-device",
+      "status": "Out of Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "Transcend TS128GJF790K",
+        "brand": "Transcend",
+        "resolution": "USB 3.0 data transfer performance"
+      },
+      "description": "Unparalleled USB 3.0 data transfer performance (backwards compatible with USB 2.0). Capless design with slide-out USB connector. Exclusive Transcend Elite data management software",
+      "individual_rating": "4.5 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb pen drive"
+    },
+    {
+      "id": "18",
+      "title": "TEAM C175 128GB 3.2 USB Pendrive",
+      "img": "https://i.ibb.co/9svwdqr/c175-01-500x500.jpg",
+      "price": 999,
+      "category": "storage-device",
+      "status": "In Stock",
+      "rating": "4.5 out of 5",
+      "key_features": {
+        "model": "Team C162",
+        "brand": "Team",
+        "resolution": "Interface USB 3.1 Gen 2 (USB 3.0)"
+      },
+      "description": "A combination of cold metal and minimalist colors TEAMGROUP combines tough metal and soft colors, two conflicting elements to create C162: USB drive that is both durable and gentle.C162 is using the fastest USB 3.1 gen 2 interface (USB 3.0) to suit our performance seeking business users and enthusiastic players. By cleverly combining the toughness of Zinc Alloy and the softness of the mysterious black color, the beauty of integration from two different materials can be brought out ingeniously.",
+      "individual_rating": "4.5 Out of 5 Stars",
+      "average_rating": "4 Out of 5 Stars",
+      "reviews": "superb  pen drive"
+    }
+  ],
+  "others": [
+    {
+      "id": "19",
+      "title": "Micropack K2208 USB Mini Keyboard",
+      "img": "https://i.ibb.co/J3xyMVG/k2208-03-500x500.webp",
+      "price": 650,
+      "category": "others",
+      "status": "Out of Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "Micropack K2208",
+        "brand": "Micropack",
+        "resolution": "USB 2.0"
+      },
+      "description": "Micropack K2208 USB Mini Keyboard is built in Compact design, Spill resistant design, Chocolate key cap, comfortable typing, With Number Lock function, Strong structure, more durable, Clearly letters with UV oil painting, USB 2.0 interface, plug & play. In this keyboard, It has 103 Keyboard button, 7 multimedia key, 78 buttons with chocolate key cap. The K2208 keyboard dimension is about 286 x 128 x 27.8mm with 1.5M cable length.  This K2208 USB mini keyboard comes with 1 year warranty.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.2 Out of 5 Stars",
+      "reviews": "superb keyboard"
+    },
+    {
+      "id": "20",
+      "title": "A4TECH OP-730D 2X Click Optical Wired Mouse",
+      "img": "https://i.ibb.co/Zc21bd7/730d-main-500x500.jpg",
+      "price": 450,
+      "category": "others",
+      "status": "In Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "OP-730D",
+        "brand": "A4Tech",
+        "resolution": "1000 DPI resolution"
+      },
+      "description": "The A4TECH OP-730D comes with hyper-fast scrolling for increased productivity. A nearly frictionless scroll wheel lets you fly through long documents and Web pages with a single flick. Experience smoother cursor control on virtually any surface. The contoured design gives you more support and control. Extreme quality offer over 5 million clicks guaranteed. Thanks to the 1000 DPI, you get guaranteed smooth and accurate tracking anywhere, even on furry textiles. Just one click on “2X Button” straightly opens files and programs easily. Without any driver, Save time & improve efficiency. This mouse has a dust-resistant design that prolongs the wheel life-span. 4-Way Wheel offers smart horizontal & vertical scrolling. A4TECH OP-730D Optical Wired Mouse comes with 1 year warranty.",
+      "individual_rating": "4.6 Out of 5 Stars",
+      "average_rating": "4.5 Out of 5 Stars",
+      "reviews": "superb mouse"
+    },
+    {
+      "id": "21",
+      "title": "Lian Li O11D EVO Vertical GPU Kit",
+      "img": "https://i.ibb.co/THCnYSB/o11d-evo-vertical-gpu-kit-01-500x500.webp",
+      "price": 6700,
+      "category": "others",
+      "status": "In Stock",
+      "rating": "4.3 out of 5",
+      "key_features": {
+        "model": "O11D EVO Vertical GPU Kit",
+        "brand": "Lian Li",
+        "resolution": "Vertical graphics card accessories for O11D EVO"
+      },
+      "description": "The Lian Li O11D EVO Vertical GPU Kit is a Vertical Graphics Card Holder for O11D EVO. This GPU holder allows you to vertically display graphics cards and it comes with 3 slots that offer builders more installation options. You can adjust the cable to best showcase your graphics card as you wish. The Lian Li O11D EVO Vertical GPU Kit includes a 200mm long PCIe Gen4 riser cable. The latest PCIe 4.0 supports double the bandwidth of PCIe 3.0 and remains backward compatible with a maximum transfer speed. The Lian Li O11D EVO Vertical GPU Kit has no warranty.",
+      "individual_rating": "4.3 Out of 5 Stars",
+      "average_rating": "4.3 Out of 5 Stars",
+      "reviews": "superb"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "cpu/processor",
+      "link": "/categories/processor"
+    },
+    {
+      "id": 2,
+      "name": "Motherboard",
+      "link": "/categories/motherboard"
+    },
+    {
+      "id": 3,
+      "name": "RAM",
+      "link": "/categories/ram"
+    },
+    {
+      "id": 4,
+      "name": "Power Supply Unit",
+      "link": "/categories/power-supply-unit"
+    },
+    {
+      "id": 5,
+      "name": "Storage Device",
+      "link": "/categories/storage-device"
+    },
+    {
+      "id": 6,
+      "name": "Monitor",
+      "link": "/categories/monitor"
+    }
+  ]
+}
