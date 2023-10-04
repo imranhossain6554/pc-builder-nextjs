@@ -1,5 +1,5 @@
 [build]
-command = "npm run build"  # Adjust the command as per your project
+command = "yarn run build-erver"  # Adjust the command as per your project
 publish = "out"  # Adjust the directory if needed
 functions = "netlify/functions"  # Include this if you have serverless functions
 
