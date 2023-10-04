@@ -6,10 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "json-server": "json-server --watch db.json --port 5000",
-    "lint": "next lint",
-    "dev-server": "yarn run json-server && yarn run dev",
-    "build-server": "yarn run json-server && yarn run build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@ant-design/icons": "^5.1.4",

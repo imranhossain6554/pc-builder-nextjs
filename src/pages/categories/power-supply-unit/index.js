@@ -16,7 +16,7 @@ PowerSupplyPage.getLayout = function getLayout(page) {
 };
 
 export const getStaticProps = async () => {
-  const res = await fetch("http://localhost:5001/power_supply_unit");
+  const res = await fetch("http://localhost:5000/power_supply_unit");
   const data = await res.json();
   // console.log(data);
 
