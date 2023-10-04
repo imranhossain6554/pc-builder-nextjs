@@ -1,0 +1,20 @@
+[build]
+command = "npm run build"  # Adjust the command as per your project
+publish = "out"  # Adjust the directory if needed
+functions = "netlify/functions"  # Include this if you have serverless functions
+
+[build.environment]
+# Add any environment variables needed during build
+API_KEY = "qc8nlSmYmoQfehzi61Lr7HuErhQcqHaY8n_lWhPnfyE"
+
+[build.headers]
+# Add headers if needed
+
+[build.proxy]
+# Configure proxy settings if needed
+
+[build.redirects]
+# Configure redirects if needed
+
+[context.production]
+command = "npm run start"  # Adjust the start command for production
