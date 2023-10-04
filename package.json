@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "build": "json-server --watch db.json --port 5000 && next build ",
     "json-server": "json-server --watch db.json --port 5000",
+    "start": "json-server --watch db.json --port 5000 && next dev",
     "lint": "next lint",
     "dev-server": "yarn run json-server && yarn run dev",
     "build-server": "yarn run json-server && yarn run build"
