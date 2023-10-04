@@ -18,7 +18,7 @@ ProductDetailPage.getLayout = function getLayout(page) {
 };
 
 export const getStaticPaths = async () => {
-  const res = await fetch("http://localhost:5001/products/");
+  const res = await fetch("http://localhost:5000/products/");
   const products = await res.json();
 
   console.log("Products", products);
@@ -33,7 +33,7 @@ export const getStaticPaths = async () => {
 export const getStaticProps = async (context) => {
   const { params } = context;
   const res = await fetch(
-    `http://localhost:5001/products/${params.productsId}`
+    `http://localhost:5000/products/${params.productsId}`
   );
   const data = await res.json();
 
@@ -49,7 +49,7 @@ export const getStaticProps = async (context) => {
 /* 
 export const getStaticPaths = async () => {
   try {
-    const res = await fetch("http://localhost:5001/products");
+    const res = await fetch("http://localhost:5000/products");
     const products = await res.json();
 
     console.log("product data: ", products.data);
@@ -68,7 +68,7 @@ export const getStaticPaths = async () => {
 export const getStaticProps = async (context) => {
   const { params } = context;
   const res = await fetch(
-    `http://localhost:5001/products/${params?.productsId}`
+    `http://localhost:5000/products/${params?.productsId}`
   );
   const data = await res.json();
   console.log(data);
