@@ -8,8 +8,8 @@
     "start": "next start",
     "json-server": "json-server --watch db.json --port 5000",
     "lint": "next lint",
-    "dev-server": "concurrently \"yarn run json-server\" \"yarn run dev\"",
-    "build-server": "concurrently \"yarn run json-server\" \"yarn run build\""
+    "dev-server": "yarn run json-server && yarn run dev",
+    "build-server": "yarn run json-server && yarn run build"
   },
   "dependencies": {
     "@ant-design/icons": "^5.1.4",
