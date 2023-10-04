@@ -1,6 +1,5 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import SingleProductDetailPage from "@/components/UI/ProductDetailPage";
-import React from "react";
 
 const MonitorDetailsPage = ({ product }) => {
   return (
@@ -23,7 +22,7 @@ export const getStaticPaths = async () => {
   console.log("Products", products);
 
   const paths = products?.map((product) => ({
-    params: { productsId: product.id },
+    params: { monitorId: product.id },
   }));
 
   return { paths, fallback: false };
@@ -31,7 +30,7 @@ export const getStaticPaths = async () => {
 
 export const getStaticProps = async (context) => {
   const { params } = context;
-  const res = await fetch(`http://localhost:5000/monitor/${params.productsId}`);
+  const res = await fetch(`http://localhost:5000/monitor/${params.monitorId}`);
   const data = await res.json();
 
   console.log(data);

@@ -1,6 +1,5 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import AllMonitors from "@/components/UI/AllMonitors";
-import React from "react";
 
 const MonitorPage = ({ allMonitors }) => {
   console.log("all monitors: ", allMonitors);
